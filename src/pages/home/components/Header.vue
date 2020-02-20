@@ -20,8 +20,8 @@
 
 export default {
   name: 'HomeHeader',
-  props:{
-    city:String
+  props: {
+    city: String
   }
 }
 </script>

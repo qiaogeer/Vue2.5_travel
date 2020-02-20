@@ -2,14 +2,14 @@
   <div class="header">
     城市选择
       <router-link to="/">
-        <div class="iconfont header-back" >&#xe624;</div>
+        <div class="iconfont header-back">&#xe624;</div>
       </router-link>
   </div>
 </template>
 
 <script>
 export default {
-  name:'CityHeader'
+  name: 'CityHeader'
 }
 </script>
 <style lang="stylus" scoped>
