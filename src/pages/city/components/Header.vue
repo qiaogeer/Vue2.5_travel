@@ -23,7 +23,7 @@ export default {
     text-align:center
     color:#fff
     font-size:.32rem
-    .header-back 
+    .header-back
       position :absolute
       top:0
       left:0
